@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Welcome to my GitHub 👋</h1>
+
+### Reximon 🐧 
 
 <!--
 **Reximon/reximon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```php 
+$reximon = array(
+    name: 'Cristian',
+    location: 'Madrid',
+    age: 19,
+    social networks: array(
+      instagram: 'criscorn.css',
+      twitter: 'reximon'
+    )
+);
+```
+
+### Languages 🐦
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Icon PHP" width="150"> </code>
+<code><img src="https://rolandocaldas.com/wp-content/uploads/2013/10/css3-html5-e1383236383597.png" alt="Icon HTML and CSS3 " width="160"> </code>
+
+📫 How to reach me: email(cristiancornielle1101@gmail.com)
