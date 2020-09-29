@@ -22,8 +22,8 @@ $reximon = array(
     'location'=> 'Madrid',
     'age'=> 19,
     'social networks'=> array(
-      'instagram'=> 'criscorn.css',
-      'twitter'=> 'reximon'
+      'instagram'=> '@criscorn.css',
+      'twitter'=> '@reximon'
     )
 );
 ```
