@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 ```php 
 $reximon = array(
-    name: 'Cristian',
-    location: 'Madrid',
-    age: 19,
-    social networks: array(
-      instagram: 'criscorn.css',
-      twitter: 'reximon'
+    'name'=> 'Cristian',
+    'location'=> 'Madrid',
+    'age'=> 19,
+    'social networks'=> array(
+      'instagram'=> 'criscorn.css',
+      'twitter'=> 'reximon'
     )
 );
 ```
