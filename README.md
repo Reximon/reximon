@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```php 
-$reximon = array(
+$reximon = [
     'name'=> 'Cristian',
     'location'=> 'Madrid',
     'age'=> 19,
-    'social networks'=> array(
+    'social networks'=> [
       'instagram'=> '@criscorn.css',
       'twitter'=> '@reximon'
-    )
-);
+    ]
+];
 ```
 
 ### Languages 🐦
